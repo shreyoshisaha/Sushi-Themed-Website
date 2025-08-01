@@ -1,0 +1,3 @@
+Sushiman is a visually captivating and responsive landing page built to showcase the essence of traditional Japanese cuisine through a modern digital experience. 
+This project was developed using HTML5, CSS3, and powered by Vite for rapid frontend development and bundling.
+Inspired by the principles of Omotenashi (Japanese hospitality), the website delivers a fluid and engaging interface featuring smooth animations (via AOS library) and a clean layout built with the BEM methodology. Whether you're displaying trending sushi, classic Japanese drinks, or building a food delivery brand presence—this design brings your content to life.
